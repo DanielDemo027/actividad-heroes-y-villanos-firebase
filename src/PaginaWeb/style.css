@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+background-color: black;
+
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.imagenPrincipal{
+  height: 62px;
+  width: 66px;
+  
+}
+.DcYmarvel{
+  height: 100%;
+  width: 100%;
+  margin: auto;
+}
+
+.Dcvillanos{
+  height: 100%;
+  width: 100%;
+  margin: auto;
+}
+.bottonVer{
+color: black;
+}
+.ImagenAcerca{
+  height: 50%;
+  width: 50%;
+  display:block;
+margin:auto;
+border: 3px solid rgb(0, 0, 0); 
+border-radius: 12%;
+
+box-shadow:  5px 5px 5px rgb(83, 75, 75) ;;
+}
+
+.CentrarInformacion{
+  text-align: center;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.866);
+  width: 50%;
+  
+  
+}
+
+.tituloAcercade{
+  color: rgb(255, 0, 0);
+  text-shadow: 3px 3px 3px black ;
+}
+
+.NombreAcercade{
+ color:rgb(255, 255, 255) ;
+ 
+}
+
+.Acercade{
+  text-align: center;
+  color: rgb(18, 38, 101);
+}
